@@ -1,4 +1,4 @@
-<strong>DSA campaign converts search term data to dedicated campaign</strong>
+<h2><strong>DSA campaign converts search term data to dedicated campaign</strong></h2>
 <p>Are you looking to optimize your Google Ads campaigns and boost your ROI? This script converts Dynamic Search Ads (DSA) campaign search terms into a Top Performer campaign with exact-match keywords.</p>
 
 <p>To streamline this process, I have developed a Google Ads script that automates the conversion of DSA campaign search terms into a dedicated Top Performer campaign. This script will help you better control your advertising efforts, enhance your targeting precision, and maximize your campaign performance.</p>
